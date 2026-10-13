@@ -2,5 +2,5 @@
 window.SITE_CONFIG = {
   googleScholarUrl: '',
   githubUrl: '',
-  homepageUrl: ''
+  homepageUrl: 'https://shauryacious.github.io/ashneet-kaur-bhatia/'
 };
